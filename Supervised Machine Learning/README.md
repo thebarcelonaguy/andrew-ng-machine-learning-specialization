@@ -9,8 +9,8 @@ This is 1st Course under Machine Learning Specialization by [Deeplearning.ai](ht
 
 | Weeks | Name                                     | Slides | My notes   |
 |:-----:|------------------------------------------|:------:|:----------:|
-| 1     | Introduction to Machine Learning         | [🔗](./Week1/slides/andrew_ng_ppt.pdf) | [🔗](./Week1/notes/ | 
+| 1     | Introduction to Machine Learning         | [🔗](./Week1/slides/andrew_ng_ppt.pdf) | [🔗](./Week1/notes | 
 | 2     | Regression with multiple input variables | [🔗](./Week2/slides/C1_W2.pdf | [🔗](./Week2/notes/) |
-| 3     | Classification                           | [🔗](./Week3/C1_W3.pdf) |./Week3/ | 
+| 3     | Classification                           | [🔗](./Week3/C1_W3.pdf) |./Week3 | 
 
 ------End of file----
